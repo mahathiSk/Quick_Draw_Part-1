@@ -1,0 +1,39 @@
+body{
+    background:linear-gradient(aqua,yellow,aqua) ;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Akaya Telivigala', cursive;
+    background-color: burlywood;
+}
+
+#show_sketch{
+   float: right; 
+   font-size: 20px;
+   background-color:blueviolet;
+   margin-right: 10px;
+}
+
+#score{
+    font-size: 20px;
+    color: palevioletred;
+    margin-left: 1000px;
+}
+
+#Timer{
+    font-size: 20px;
+    color: palevioletred;
+    margin-right: 1000px;
+}
+
+p{
+    font-size: 20;
+    background-color:yellowgreen;
+    font-style: italic;
+}
+
+#sketch_to_be_drawn{
+    color: red;
+}
